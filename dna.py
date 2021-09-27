@@ -41,4 +41,6 @@ if len(dna)==len(temp_str):
     print('tRna   Strand:','   '+tRna+'    ')#anticodon
 else:
     print('you did somethin wrong')
-
+    
+    
+    
