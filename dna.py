@@ -84,3 +84,4 @@ else:
     if len(dna)%3!=0:
         print('incomplete strand')
 
+        
